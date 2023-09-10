@@ -1,0 +1,10 @@
+C:\Users\Claude\source\repos\calsize\calsize\bin\Debug\calsize.exe.config
+C:\Users\Claude\source\repos\calsize\calsize\bin\Debug\calsize.exe
+C:\Users\Claude\source\repos\calsize\calsize\bin\Debug\calsize.pdb
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.csproj.AssemblyReference.cache
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.Form1.resources
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.Properties.Resources.resources
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.csproj.GenerateResource.cache
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.csproj.CoreCompileInputs.cache
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.exe
+C:\Users\Claude\source\repos\calsize\calsize\obj\Debug\calsize.pdb
